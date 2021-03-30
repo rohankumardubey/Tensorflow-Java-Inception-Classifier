@@ -16,3 +16,5 @@ Place any desired image of choice in the images folder and name the as 'test.jpg
 javac -cp libtensorflow-1.14.0.jar TF_Java_API.java 
 java -cp libtensorflow-1.14.0.jar:. -Djava.library.path=./jni TF_Java_API
 ```
+#### Output
+![Test](screenshots/screenshot.png)
